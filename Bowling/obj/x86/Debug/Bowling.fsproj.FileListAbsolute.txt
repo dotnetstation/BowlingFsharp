@@ -1,0 +1,11 @@
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\bin\Debug\Bowling.XML
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\bin\Debug\Bowling.exe
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\bin\Debug\Bowling.pdb
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\bin\Debug\FsUnit.NUnit-0.9.0.dll
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\bin\Debug\nunit.framework.dll
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\bin\Debug\nunit.mocks.dll
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\bin\Debug\pnunit.framework.dll
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\bin\Debug\nunit.framework.xml
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\obj\x86\Debug\Bowling.exe
+c:\Users\radwane.hassen\Documents\Visual Studio 2010\Projects\Bowling\Bowling\obj\x86\Debug\Bowling.pdb
